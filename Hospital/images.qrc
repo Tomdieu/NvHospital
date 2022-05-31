@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/textundercolor.png</file>
+    <file>images/color-picker.svg</file>
+    <file>images/1200px-MySQL.png</file>
+    <file>images/format-indent-less.png</file>
+    <file>images/format-indent-more.png</file>
+    <file>images/textcenter.png</file>
+    <file>images/textjustify.png</file>
+    <file>images/textleft.png</file>
+    <file>images/textright.png</file>
+    <file>images/1280px-SQLite370.svg.png</file>
+    <file>images/reset.svg</file>
+    <file>images/add.svg</file>
+    <file>images/minus.svg</file>
+    <file>images/arrow-down.svg</file>
+    <file>images/arrow-left.svg</file>
+    <file>images/arrow-up.svg</file>
+    <file>images/coro1.png</file>
+    <file>images/dentist.png</file>
+    <file>images/document-print.svg</file>
+    <file>images/document-save.svg</file>
+    <file>images/edit-copy.svg</file>
+    <file>images/edit-cut.svg</file>
+    <file>images/edit-paste.svg</file>
+    <file>images/edit-redo-symbolic.svg</file>
+    <file>images/edit-undo.svg</file>
+    <file>images/folder-saved-search.svg</file>
+    <file>images/format-justify-fill.svg</file>
+    <file>images/format-text-bold.svg</file>
+    <file>images/format-text-italic.svg</file>
+    <file>images/format-text-underline.svg</file>
+    <file>images/gtk-delete.svg</file>
+    <file>images/gtk-go-back-ltr.svg</file>
+    <file>images/redeyes.svg</file>
+    <file>images/reload.svg</file>
+    <file>images/settings.svg</file>
+    <file>images/vcs-locally-modified.svg</file>
+  </qresource>
+</RCC>

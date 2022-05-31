@@ -1,0 +1,53 @@
+{
+    "DATABASETYPE": "sqlite",
+    "INTERVENTION": [
+        "CONSEIL (IHBD)",
+        "DECAPUCHONNAGE",
+        "DÉTARTRAGE",
+        "EXTRACTION",
+        "ORDONNANCE",
+        "RAS",
+        "RÉFÉRENCE + ORDONNANCE",
+        "SOINS CONSERVATEUR"
+    ],
+    "LANGUAGE": [
+        {
+            "english": false,
+            "french": true
+        }
+    ],
+    "LASTYEAR": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+    ],
+    "MySQl": {
+        "database": "",
+        "host": "127.0.0.1",
+        "password": "",
+        "port": 3306,
+        "username": "root"
+    },
+    "PATHTOSQLITEDATABASE": "DB/",
+    "PROFESSION": [
+        "Autre",
+        "Commerçant(e)",
+        "Cultivateur/cultivatrice",
+        "Fonctionaire",
+        "Ménagère",
+        "Éleve"
+    ],
+    "SQLITEDATABASENAME": "Hospital.db",
+    "VILLE": [
+        "Autre",
+        "Douala",
+        "Tonga",
+        "Yaounde",
+        "Sadasda"
+    ],
+    "mysql": false,
+    "sqlite": true
+}
