@@ -1,4 +1,4 @@
-## Test-Project-Dental-Consultation-App-With-Python-Qt
+## NvHospital
 # This application to manage a small dental campaign consultation
 
 # How to run
